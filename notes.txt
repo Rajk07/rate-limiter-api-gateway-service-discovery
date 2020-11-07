@@ -1,0 +1,3 @@
+https://www.baeldung.com/spring-cloud-openfeign
+https://medium.com/@iroshan.du/spring-boot-micro-services-with-eureka-and-zuul-proxy-with-fegin-client-68a3ad78453b
+https://www.baeldung.com/spring-cloud-netflix-eureka
